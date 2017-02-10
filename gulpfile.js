@@ -1,5 +1,5 @@
 var elixir = require('laravel-elixir');
-var webpack = require('webpack')
+var webpack = require('webpack');
 require('laravel-elixir-webpack-ex');
 
 /*
