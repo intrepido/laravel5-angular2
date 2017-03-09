@@ -30,6 +30,12 @@ Webpack is used for bundling assets.
 
 At this point you can start developing your app.
 
+> Note:
+
+> If the `npm install` fail, you need to run manually `npm rebuild node-sass --no-bin-links`
+
+
+
 
 ## Development
 
